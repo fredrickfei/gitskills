@@ -1,1 +1,1 @@
-branch test,,,& simple
+Creating a new branch is quick and simple.
